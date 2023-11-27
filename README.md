@@ -15,7 +15,7 @@ O desafio em si era realizar um CRUD de um padaria usando prompt.
 
 ## Acesso ao Pages
 
-https://dionei-silva.github.io/CRUD-carros-certo/
+https://dionei-silva.github.io/Padaria-CRUD/
 
 - Irá aparecer um prompt e alguns alerts para preencher os requisitos
 - O resultado do desafio está no console.log 
